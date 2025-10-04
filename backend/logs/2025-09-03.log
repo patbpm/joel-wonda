@@ -1,0 +1,287 @@
+{
+  "timestamp": "2025-09-03T17:43:40.297Z",
+  "level": "INFO",
+  "message": "🚀 iTunes Search API Server running on port 5000"
+}
+{
+  "timestamp": "2025-09-03T17:43:40.301Z",
+  "level": "INFO",
+  "message": "📱 Environment: development"
+}
+{
+  "timestamp": "2025-09-03T17:43:40.302Z",
+  "level": "INFO",
+  "message": "🌐 CORS Origin: http://localhost:3000"
+}
+{
+  "timestamp": "2025-09-03T17:45:07.195Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:17:45:07 +0000] \"GET /health HTTP/1.1\" 200 123 \"-\" \"curl/8.15.0\""
+}
+{
+  "timestamp": "2025-09-03T17:50:00.407Z",
+  "level": "ERROR",
+  "message": "💥 Uncaught Exception:",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 5000
+}
+{
+  "timestamp": "2025-09-03T17:51:27.948Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T17:51:27.978Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:17:51:27 +0000] \"POST /api/auth/token?_t=1756921887743 HTTP/1.1\" 500 87 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T17:51:27.992Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T17:51:27.998Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:17:51:27 +0000] \"POST /api/auth/token?_t=1756921887743 HTTP/1.1\" 500 87 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T17:52:53.109Z",
+  "level": "ERROR",
+  "message": "💥 Uncaught Exception:",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 5000
+}
+{
+  "timestamp": "2025-09-03T17:55:09.142Z",
+  "level": "ERROR",
+  "message": "💥 Uncaught Exception:",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 5000
+}
+{
+  "timestamp": "2025-09-03T17:58:41.205Z",
+  "level": "INFO",
+  "message": "🚀 iTunes Search API Server running on port 5001"
+}
+{
+  "timestamp": "2025-09-03T17:58:41.210Z",
+  "level": "INFO",
+  "message": "📱 Environment: development"
+}
+{
+  "timestamp": "2025-09-03T17:58:41.212Z",
+  "level": "INFO",
+  "message": "🌐 CORS Origin: http://localhost:3000"
+}
+{
+  "timestamp": "2025-09-03T17:59:25.260Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T17:59:25.296Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:17:59:25 +0000] \"POST /api/auth/token?_t=1756922365200 HTTP/1.1\" 500 87 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T17:59:25.313Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T17:59:25.321Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:17:59:25 +0000] \"POST /api/auth/token?_t=1756922365200 HTTP/1.1\" 500 87 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:00:48.940Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T18:00:48.970Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:00:48 +0000] \"POST /api/auth/token?_t=1756922448894 HTTP/1.1\" 500 87 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:00:48.980Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T18:00:48.989Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:00:48 +0000] \"POST /api/auth/token?_t=1756922448894 HTTP/1.1\" 500 87 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:01:01.544Z",
+  "level": "INFO",
+  "message": "📴 SIGINT received. Shutting down gracefully..."
+}
+{
+  "timestamp": "2025-09-03T18:01:01.554Z",
+  "level": "INFO",
+  "message": "✅ Process terminated"
+}
+{
+  "timestamp": "2025-09-03T18:01:08.665Z",
+  "level": "INFO",
+  "message": "🚀 iTunes Search API Server running on port 5001"
+}
+{
+  "timestamp": "2025-09-03T18:01:08.670Z",
+  "level": "INFO",
+  "message": "📱 Environment: development"
+}
+{
+  "timestamp": "2025-09-03T18:01:08.671Z",
+  "level": "INFO",
+  "message": "🌐 CORS Origin: http://localhost:3000"
+}
+{
+  "timestamp": "2025-09-03T18:01:36.957Z",
+  "level": "INFO",
+  "message": "JWT token generated",
+  "userId": "demo-user-1756922496937",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+}
+{
+  "timestamp": "2025-09-03T18:01:36.995Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:01:36 +0000] \"POST /api/auth/token?_t=1756922496877 HTTP/1.1\" 200 481 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:01:37.007Z",
+  "level": "INFO",
+  "message": "JWT token generated",
+  "userId": "demo-user-1756922497004",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+}
+{
+  "timestamp": "2025-09-03T18:01:37.021Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:01:37 +0000] \"POST /api/auth/token?_t=1756922496877 HTTP/1.1\" 200 481 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:02:11.751Z",
+  "level": "INFO",
+  "message": "Token verified successfully",
+  "userId": "demo-user-1756922497004",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T18:02:11.755Z",
+  "level": "INFO",
+  "message": "iTunes API search request",
+  "url": "https://itunes.apple.com/search?term=Tayloe+Swift&media=all&limit=50&country=US&explicit=Yes",
+  "term": "Tayloe Swift",
+  "media": "all",
+  "userId": "demo-user-1756922497004",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T18:02:14.263Z",
+  "level": "INFO",
+  "message": "iTunes API search completed",
+  "term": "Tayloe Swift",
+  "resultCount": 53,
+  "responseTime": "2509ms",
+  "userId": "demo-user-1756922497004"
+}
+{
+  "timestamp": "2025-09-03T18:02:14.266Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:02:14 +0000] \"GET /api/search?term=Tayloe+Swift&media=all&limit=50&country=US&explicit=Yes&_t=1756922531721 HTTP/1.1\" 200 98695 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:09:54.548Z",
+  "level": "INFO",
+  "message": "JWT token generated",
+  "userId": "demo-user-1756922994486",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+}
+{
+  "timestamp": "2025-09-03T18:09:54.582Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:09:54 +0000] \"POST /api/auth/token?_t=1756922994335 HTTP/1.1\" 200 481 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:09:54.644Z",
+  "level": "INFO",
+  "message": "JWT token generated",
+  "userId": "demo-user-1756922994641",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+}
+{
+  "timestamp": "2025-09-03T18:09:54.650Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:09:54 +0000] \"POST /api/auth/token?_t=1756922994335 HTTP/1.1\" 200 481 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:10:02.179Z",
+  "level": "INFO",
+  "message": "JWT token generated",
+  "userId": "demo-user-1756923002171",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+}
+{
+  "timestamp": "2025-09-03T18:10:02.197Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:10:02 +0000] \"POST /api/auth/token?_t=1756923002140 HTTP/1.1\" 200 481 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:10:02.237Z",
+  "level": "INFO",
+  "message": "JWT token generated",
+  "userId": "demo-user-1756923002231",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+}
+{
+  "timestamp": "2025-09-03T18:10:02.250Z",
+  "level": "INFO",
+  "message": "::1 - - [03/Sep/2025:18:10:02 +0000] \"POST /api/auth/token?_t=1756923002140 HTTP/1.1\" 200 481 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\""
+}
+{
+  "timestamp": "2025-09-03T18:10:21.232Z",
+  "level": "INFO",
+  "message": "📴 SIGINT received. Shutting down gracefully..."
+}
+{
+  "timestamp": "2025-09-03T18:10:21.240Z",
+  "level": "INFO",
+  "message": "✅ Process terminated"
+}

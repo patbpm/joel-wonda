@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-09-03T17:50:00.407Z",
+  "level": "ERROR",
+  "message": "💥 Uncaught Exception:",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 5000
+}
+{
+  "timestamp": "2025-09-03T17:51:27.948Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T17:51:27.992Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T17:52:53.109Z",
+  "level": "ERROR",
+  "message": "💥 Uncaught Exception:",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 5000
+}
+{
+  "timestamp": "2025-09-03T17:55:09.142Z",
+  "level": "ERROR",
+  "message": "💥 Uncaught Exception:",
+  "code": "EADDRINUSE",
+  "errno": -4091,
+  "syscall": "listen",
+  "address": "::",
+  "port": 5000
+}
+{
+  "timestamp": "2025-09-03T17:59:25.260Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T17:59:25.313Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T18:00:48.940Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
+{
+  "timestamp": "2025-09-03T18:00:48.980Z",
+  "level": "ERROR",
+  "message": "Token generation failed",
+  "error": "Bad \"options.expiresIn\" option the payload already has an \"exp\" property.",
+  "stack": "Error: Bad \"options.expiresIn\" option the payload already has an \"exp\" property.\n    at module.exports [as sign] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\jsonwebtoken\\sign.js:163:20)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\routes\\auth.js:43:23\n    at Layer.handle [as handle_request] (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:807:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\27717\\Documents\\Patrick\\joel\\Boss Joel\\backend\\node_modules\\express-rate-limit\\dist\\index.cjs:691:5",
+  "ip": "::1"
+}
